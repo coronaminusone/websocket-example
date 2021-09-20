@@ -1,0 +1,3 @@
+./notifications/notif-server/node_modules
+./notifications/webclient/node_modules
+./web/vendor/
